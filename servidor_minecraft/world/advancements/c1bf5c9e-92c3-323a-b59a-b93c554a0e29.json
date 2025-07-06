@@ -692,6 +692,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-06 03:20:02 +0000",
       "minecraft:spider": "2025-07-06 01:22:06 +0000",
+      "minecraft:endermite": "2025-07-06 03:51:37 +0000",
       "minecraft:zombie": "2025-07-06 02:09:21 +0000"
     },
     "done": false
@@ -1026,6 +1027,12 @@
       "has_paragliders": "2025-07-06 01:59:02 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2025-07-06 03:50:23 +0000"
+    },
+    "done": false
   },
   "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
     "criteria": {

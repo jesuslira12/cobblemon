@@ -846,6 +846,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-06 03:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 03:19:15 +0000"
@@ -1017,6 +1023,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_carrot": "2025-07-06 03:49:05 +0000",
       "enchanted_golden_apple": "2025-07-06 02:56:17 +0000"
     },
     "done": false
