@@ -718,3 +718,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 03:56:21.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported Liramisu to VivaEloim]
 [06Jul2025 03:57:52.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu was slain by VivaEloim
 [06Jul2025 03:58:09.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported Liramisu to VivaEloim]
+[06Jul2025 03:58:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu was slain by VivaEloim
+[06Jul2025 03:58:42.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Creative Mode]
+[06Jul2025 03:58:42.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Set own game mode to Creative Mode]
+[06Jul2025 04:00:19.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Set own game mode to Survival Mode]
+[06Jul2025 04:00:56.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim has reached the goal [Fighting Nightmares]
+[06Jul2025 04:01:27.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
+[06Jul2025 04:01:41.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported Liramisu to VivaEloim]
+[06Jul2025 04:04:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Applied effect Strength to VivaEloim]

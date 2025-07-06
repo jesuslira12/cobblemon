@@ -58,7 +58,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-06 04:03:19 +0000",
       "minecraft:river": "2025-07-06 00:53:29 +0000",
+      "minecraft:cold_ocean": "2025-07-06 04:03:18 +0000",
       "minecraft:forest": "2025-07-06 03:22:50 +0000",
       "minecraft:plains": "2025-07-06 01:43:51 +0000"
     },
