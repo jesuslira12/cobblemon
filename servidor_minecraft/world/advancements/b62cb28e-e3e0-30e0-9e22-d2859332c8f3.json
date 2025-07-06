@@ -333,7 +333,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-06 02:58:55 +0000",
       "minecraft:river": "2025-07-06 02:16:08 +0000",
+      "minecraft:cold_ocean": "2025-07-06 02:58:58 +0000",
       "minecraft:plains": "2025-07-06 01:44:06 +0000"
     },
     "done": false
@@ -718,6 +720,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-07-06 02:56:17 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
     "criteria": {
       "has_heart": "2025-07-06 01:54:49 +0000"
@@ -739,6 +747,18 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-06 01:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-06 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-07-06 02:55:00 +0000"
     },
     "done": true
   },

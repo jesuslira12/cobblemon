@@ -672,3 +672,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 02:55:22.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Set own game mode to Creative Mode]
 [06Jul2025 02:55:41.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Set own game mode to Survival Mode]
 [06Jul2025 02:55:46.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
+[06Jul2025 02:58:16.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu fell from a high place
+[06Jul2025 02:58:39.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Creative Mode]
+[06Jul2025 02:59:03.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was killed
+[06Jul2025 02:59:04.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu was killed
+[06Jul2025 02:59:04.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Killed 393 entities]
+[06Jul2025 02:59:15.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Set own game mode to Creative Mode]
+[06Jul2025 03:01:40.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu has completed the challenge [Necronomicon]
