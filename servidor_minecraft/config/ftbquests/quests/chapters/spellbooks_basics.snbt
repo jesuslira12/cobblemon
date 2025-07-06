@@ -195,10 +195,13 @@
 			}]
 			title: "Sopera"
 			x: -0.5d
-			y: -4.0d
+			y: -4.5d
 		}
 		{
-			dependencies: ["203FC12A965E6CF9"]
+			dependencies: [
+				"203FC12A965E6CF9"
+				"6267571BE6E41F46"
+			]
 			icon: {
 				Count: 1
 				id: "irons_spellbooks:wandering_magician_chestplate"
@@ -276,7 +279,7 @@
 				}
 			]
 			title: "El Mago Errante"
-			x: 1.5d
+			x: 2.5d
 			y: -2.5d
 		}
 		{
@@ -293,7 +296,7 @@
 				type: "item"
 			}]
 			title: "7 palabras"
-			x: 1.5d
+			x: 1.0d
 			y: -2.5d
 		}
 		{
@@ -312,6 +315,95 @@
 			title: "7 Palabras II"
 			x: -2.0d
 			y: -2.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:pumpkin_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "42D2973855D0572A"
+			optional: true
+			rewards: [
+				{
+					id: "1E64B8C3E0FF71F8"
+					type: "xp"
+					xp: 25
+				}
+				{
+					id: "06F8989F9F28B4A7"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:oakskin"
+									index: 0
+									level: 1
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Crea el set completo de espantapajaros"
+			tasks: [
+				{
+					id: "7E47AA3D23B360A6"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:pumpkin_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E24950304CCFF47"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:pumpkin_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "195CD05145B191E2"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:pumpkin_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "02D38EA048F5F15D"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:pumpkin_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Like Scarecrows that Fuel this Flame"
+			x: 1.5d
+			y: -4.5d
 		}
 	]
 	title: "Spellbooks Basics"
