@@ -193,6 +193,88 @@
 			x: -0.5d
 			y: -4.0d
 		}
+		{
+			dependencies: ["203FC12A965E6CF9"]
+			icon: {
+				Count: 1
+				id: "irons_spellbooks:wandering_magician_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2B4F7B8DC65F8A9F"
+			rewards: [{
+				id: "318FFEFEFF193EE8"
+				item: {
+					Count: 1
+					id: "irons_spellbooks:scroll"
+					tag: {
+						ISB_Spells: {
+							data: [{
+								id: "irons_spellbooks:starfall"
+								index: 0
+								level: 1
+								locked: 1b
+							}]
+							maxSpells: 1
+							mustEquip: 0b
+							spellWheel: 0b
+						}
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Consigue el set Basico de Mago Errante"
+			tasks: [
+				{
+					id: "7457A78323040871"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:wandering_magician_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "04536928AE2E9307"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:wandering_magician_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "08DB069233E091E9"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:wandering_magician_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E65C171EE59C605"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:wandering_magician_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "El Mago Errante"
+			x: 1.0d
+			y: -2.5d
+		}
 	]
 	title: "Spellbooks Basics"
 }
