@@ -96,6 +96,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["4DC3BFCF6FF4106D"]
 			id: "7CA98B444025813A"
 			rewards: [{
 				id: "0084CEEA44035D20"
@@ -109,8 +110,8 @@
 				type: "item"
 			}]
 			title: "Fragil como el cristal"
-			x: 1.0d
-			y: 0.5d
+			x: -3.5d
+			y: -2.5d
 		}
 		{
 			id: "341D88580768DF66"
@@ -126,8 +127,8 @@
 				type: "item"
 			}]
 			title: "El diamante Verde"
-			x: 1.0d
-			y: -1.0d
+			x: -3.5d
+			y: 0.5d
 		}
 		{
 			id: "29AB86717499247C"
@@ -138,7 +139,40 @@
 				type: "item"
 			}]
 			title: "Lindas Perlas"
-			x: 1.0d
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			id: "4DC3BFCF6FF4106D"
+			rewards: [{
+				id: "1C8CCB996F207465"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "752D2B53274F98FD"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7CA98B444025813A"]
+			id: "0225E73F6EA7854A"
+			rewards: [{
+				id: "0E378784F2B85317"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "Consigue Perla Sagrada"
+			tasks: [{
+				id: "764201850A86E3D7"
+				item: "irons_spellbooks:divine_pearl"
+				type: "item"
+			}]
+			title: "Sacrilegio Perlado"
+			x: -2.0d
 			y: -2.5d
 		}
 	]

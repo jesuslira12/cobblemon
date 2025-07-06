@@ -1,0 +1,27 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vampirism_basics"
+	group: "69E574A82BC2167F"
+	id: "263B8964F5BA8DD6"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "3842989A88643EFD"
+		rewards: [{
+			id: "5739EB676D26CA7E"
+			type: "xp"
+			xp: 15
+		}]
+		subtitle: "Consigue Colmillo de Vampiro"
+		tasks: [{
+			id: "557B3E285C90FA77"
+			item: "vampirism:vampire_fang"
+			type: "item"
+		}]
+		title: "Vampires Will Never Hurt You"
+		x: 1.0d
+		y: 0.5d
+	}]
+	title: "vampirism basics"
+}

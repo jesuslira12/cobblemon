@@ -3989,3 +3989,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 08:16:59.307] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [06Jul2025 08:19:51.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2025 08:19:51.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 08:24:51.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 08:24:51.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 08:25:26.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set the weather to clear]
+[06Jul2025 08:29:51.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 08:29:51.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
