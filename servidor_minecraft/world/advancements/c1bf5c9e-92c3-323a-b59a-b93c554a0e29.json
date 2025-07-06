@@ -689,7 +689,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-07-06 01:22:06 +0000"
+      "minecraft:spider": "2025-07-06 01:22:06 +0000",
+      "minecraft:zombie": "2025-07-06 02:09:21 +0000"
     },
     "done": false
   },
@@ -837,6 +838,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2025-07-06 02:07:53 +0000"
+    },
+    "done": true
+  },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-07-06 01:59:02 +0000"
@@ -855,15 +862,33 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-07-06 02:08:37 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_heart": "2025-07-06 01:55:03 +0000"
     },
     "done": true
   },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_3": "2025-07-06 02:05:30 +0000"
+    },
+    "done": false
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-07-06 01:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-06 02:07:27 +0000"
     },
     "done": true
   },

@@ -420,6 +420,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-06 02:09:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-07-06 01:53:22 +0000"
@@ -441,6 +447,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-07-06 01:50:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2025-07-06 02:08:00 +0000"
     },
     "done": true
   },
@@ -528,6 +540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-06 02:06:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-07-06 01:56:52 +0000"
@@ -551,6 +569,12 @@
       "kill": "2025-07-06 01:54:24 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-06 02:06:44 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
@@ -594,6 +618,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-06 02:09:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/empyreal_boat": {
     "criteria": {
       "in_water": "2025-07-06 01:53:22 +0000"
@@ -603,6 +633,24 @@
   "skilltree:recipes/combat/bone_quiver": {
     "criteria": {
       "has_bone": "2025-07-06 01:50:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_3": "2025-07-06 02:05:36 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:chaos_knight": {
+    "criteria": {
+      "chaos_knight_0": "2025-07-06 02:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-06 02:07:42 +0000"
     },
     "done": true
   },
@@ -621,6 +669,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-07-06 01:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-06 02:06:44 +0000"
     },
     "done": true
   },
