@@ -6,33 +6,60 @@
 	id: "3007D7F863AD7A8D"
 	order_index: 1
 	quest_links: [ ]
-	quests: [{
-		id: "372C693582F996DC"
-		rewards: [{
-			id: "412C278F83ACE707"
-			type: "xp"
-			xp: 15
-		}]
-		subtitle: "Crea un libro fragil"
-		tasks: [{
-			id: "0B631510A55AD305"
-			item: {
-				Count: 1
-				id: "irons_spellbooks:copper_spell_book"
-				tag: {
-					ISB_Spells: {
-						data: [ ]
-						maxSpells: 5
-						mustEquip: 1b
-						spellWheel: 1b
+	quests: [
+		{
+			id: "372C693582F996DC"
+			rewards: [{
+				id: "412C278F83ACE707"
+				type: "xp"
+				xp: 15
+			}]
+			subtitle: "Crea un libro fragil"
+			tasks: [{
+				id: "0B631510A55AD305"
+				item: {
+					Count: 1
+					id: "irons_spellbooks:copper_spell_book"
+					tag: {
+						ISB_Spells: {
+							data: [ ]
+							maxSpells: 5
+							mustEquip: 1b
+							spellWheel: 1b
+						}
 					}
 				}
-			}
-			type: "item"
-		}]
-		title: "Hechiceria basica"
-		x: -0.5d
-		y: 0.5d
-	}]
+				type: "item"
+			}]
+			title: "Hechiceria basica"
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["372C693582F996DC"]
+			id: "65B2F1ED4C21B034"
+			rewards: [
+				{
+					id: "749C1F19FFF5D37A"
+					type: "xp"
+					xp: 15
+				}
+				{
+					id: "11CACA6C0B039F3B"
+					item: "irons_spellbooks:common_ink"
+					type: "item"
+				}
+			]
+			subtitle: "Consigue una forja de pergaminos"
+			tasks: [{
+				id: "3C58C82310D0E385"
+				item: "irons_spellbooks:scroll_forge"
+				type: "item"
+			}]
+			title: "Escritor de Pergaminos"
+			x: -0.5d
+			y: -1.0d
+		}
+	]
 	title: "Spellbooks Basics"
 }
