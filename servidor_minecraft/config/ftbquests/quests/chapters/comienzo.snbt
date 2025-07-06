@@ -138,6 +138,18 @@
 			x: 3.0d
 			y: -1.5d
 		}
+		{
+			id: "2F9398AF62F77173"
+			subtitle: "Consigue Cobre"
+			tasks: [{
+				id: "42F52B3A117A4805"
+				item: "minecraft:raw_copper"
+				type: "item"
+			}]
+			title: "Esto es util?"
+			x: 3.0d
+			y: 1.5d
+		}
 	]
 	title: "Comienzo"
 }

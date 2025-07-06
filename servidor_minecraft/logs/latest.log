@@ -426,3 +426,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 08:25:26.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set the weather to clear]
 [06Jul2025 08:46:27.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu has made the advancement [Dark Metallurgy]
 [06Jul2025 08:54:01.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu has made the advancement [No Longer Short-Staffed]
+[06Jul2025 09:54:32.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
