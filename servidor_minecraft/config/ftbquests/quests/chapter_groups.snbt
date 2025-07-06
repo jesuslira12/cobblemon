@@ -1,3 +1,6 @@
 {
-	chapter_groups: [{ id: "69E574A82BC2167F", title: "Pasos basicos" }]
+	chapter_groups: [
+		{ id: "69E574A82BC2167F", title: "Pasos basicos" }
+		{ id: "4D171C4F561E70A9", title: "Pasos Avanzados" }
+	]
 }

@@ -104,6 +104,23 @@
 			x: 1.5d
 			y: -1.5d
 		}
+		{
+			id: "27DA6C989B2DF8D6"
+			rewards: [{
+				id: "2FF98385CEF8F35F"
+				item: "paraglider:heart_container"
+				type: "item"
+			}]
+			subtitle: "Crea un Parapente"
+			tasks: [{
+				id: "13E769186C74723C"
+				item: "paraglider:paraglider"
+				type: "item"
+			}]
+			title: "Haciendo Planes"
+			x: 0.0d
+			y: -1.5d
+		}
 	]
 	title: "Comienzo"
 }

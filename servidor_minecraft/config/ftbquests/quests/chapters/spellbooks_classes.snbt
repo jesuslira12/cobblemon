@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "spellbooks_classes"
+	group: "4D171C4F561E70A9"
+	id: "4AC0F423707BF333"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Spellbooks Classes"
+}
