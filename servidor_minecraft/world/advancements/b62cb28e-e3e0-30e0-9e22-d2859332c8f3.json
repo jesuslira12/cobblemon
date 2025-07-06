@@ -548,6 +548,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-07-06 02:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-07-06 01:56:52 +0000"
@@ -640,7 +646,8 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
-      "squireofthe_dark_lord_3": "2025-07-06 02:05:36 +0000"
+      "squireofthe_dark_lord_3": "2025-07-06 02:05:36 +0000",
+      "squireofthe_dark_lord_5": "2025-07-06 02:26:21 +0000"
     },
     "done": false
   },

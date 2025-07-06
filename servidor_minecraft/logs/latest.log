@@ -598,3 +598,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 02:24:33.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-134, y=76, z=33} BlockPos{x=-142, y=74, z=26}
 [06Jul2025 02:26:15.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaEloim> dark warblade
 [06Jul2025 02:27:00.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
+[06Jul2025 02:27:30.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Applied effect Strength to VivaEloim]
+[06Jul2025 02:27:37.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was skewered by Liramisu's blood needles
+[06Jul2025 02:27:37.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VivaEloim moved wrongly!
+[06Jul2025 02:27:43.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:27:52.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Applied effect Strength to VivaEloim]
+[06Jul2025 02:28:25.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu was slain by VivaEloim
+[06Jul2025 02:28:35.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Creative Mode]
+[06Jul2025 02:29:09.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported Liramisu to VivaEloim]
+[06Jul2025 02:29:18.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim fell from a high place
+[06Jul2025 02:29:23.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:29:34.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Applied effect Strength to VivaEloim]
+[06Jul2025 02:30:49.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim has completed the challenge [Rude Awakening]
+[06Jul2025 02:31:47.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
+[06Jul2025 02:32:07.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu has completed the challenge [Rude Awakening]
+[06Jul2025 02:32:14.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Creative Mode]
+[06Jul2025 02:32:29.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
+[06Jul2025 02:33:19.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu's heart ruptured
+[06Jul2025 02:33:32.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Applied effect Strength to VivaEloim]
+[06Jul2025 02:33:41.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported Liramisu to VivaEloim]
+[06Jul2025 02:33:45.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu was skewered by VivaEloim's blood needles
+[06Jul2025 02:33:50.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Creative Mode]
+[06Jul2025 02:34:26.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported Liramisu to VivaEloim]
+[06Jul2025 02:36:00.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was shown the way of the light by Liramisu
+[06Jul2025 02:36:05.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:36:47.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Applied effect Strength to VivaEloim]
+[06Jul2025 02:37:17.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was punctured by Liramisu's magic arrow
+[06Jul2025 02:37:20.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]

@@ -862,6 +862,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-07-06 02:32:07 +0000"
+    },
+    "done": true
+  },
   "vampirism:hunter/betrayal": {
     "criteria": {
       "kill": "2025-07-06 02:08:37 +0000"
@@ -876,7 +882,8 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
-      "squireofthe_dark_lord_3": "2025-07-06 02:05:30 +0000"
+      "squireofthe_dark_lord_3": "2025-07-06 02:05:30 +0000",
+      "squireofthe_dark_lord_5": "2025-07-06 02:26:14 +0000"
     },
     "done": false
   },
