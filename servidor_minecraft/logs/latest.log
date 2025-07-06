@@ -456,3 +456,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 01:56:40.077] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [06Jul2025 01:56:40.106] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [06Jul2025 01:56:52.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim has completed the challenge [Cover Me in Debris]
+[06Jul2025 01:57:59.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim's atoms were crushed in Liramisu's black hole
+[06Jul2025 01:58:02.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 01:59:02.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu has reached the goal [Half a flight]
+[06Jul2025 01:59:10.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim has reached the goal [Half a flight]
+[06Jul2025 01:59:26.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:00:56.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to 4.725703, 1000.000000, 152.639499]
+[06Jul2025 02:01:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported Liramisu to VivaEloim]
+[06Jul2025 02:01:36.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim fell from a high place
+[06Jul2025 02:01:42.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:02:28.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
+[06Jul2025 02:03:03.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Gave 90000000 experience points to VivaEloim]
+[06Jul2025 02:03:11.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Gave 999999999 experience points to Liramisu]
+[06Jul2025 02:04:30.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Creative Mode]
+[06Jul2025 02:06:59.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was skewered by Liramisu's blood needles
+[06Jul2025 02:07:05.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]

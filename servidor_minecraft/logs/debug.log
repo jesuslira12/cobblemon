@@ -5355,3 +5355,81 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 01:57:01.616] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
 [06Jul2025 01:57:03.310] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
 [06Jul2025 01:57:06.041] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
+[06Jul2025 01:57:08.660] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
+[06Jul2025 01:57:17.292] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
+[06Jul2025 01:57:20.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
+[06Jul2025 01:57:24.437] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent from:
+24 scroll
+79f43e14
+[06Jul2025 01:57:24.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent to:
+4 loverly_gysahl_green
+62587839
+[06Jul2025 01:57:59.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim's atoms were crushed in Liramisu's black hole
+[06Jul2025 01:58:02.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 01:58:19.739] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 01:58:31.090] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 01:58:31.962] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 01:58:33.502] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 01:58:34.564] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 01:58:41.937] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 01:58:42.526] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 01:58:43.574] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 01:58:45.967] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 01:58:46.858] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 01:58:48.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 01:58:48.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 01:58:48.646] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 01:58:50.300] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 01:59:02.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu has reached the goal [Half a flight]
+[06Jul2025 01:59:10.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim has reached the goal [Half a flight]
+[06Jul2025 01:59:26.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:00:39.799] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:00:40.258] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:00:42.237] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 21.887s
+[06Jul2025 02:00:56.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to 4.725703, 1000.000000, 152.639499]
+[06Jul2025 02:00:58.653] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent from:
+22 scroll
+2ad6bc38
+[06Jul2025 02:00:58.654] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent to:
+1 paraglider
+40df3cb5
+[06Jul2025 02:01:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported Liramisu to VivaEloim]
+[06Jul2025 02:01:25.716] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
+[06Jul2025 02:01:36.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim fell from a high place
+[06Jul2025 02:01:42.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:01:44.188] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:02:28.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
+[06Jul2025 02:03:03.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Gave 90000000 experience points to VivaEloim]
+[06Jul2025 02:03:11.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Gave 999999999 experience points to Liramisu]
+[06Jul2025 02:03:48.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 02:03:48.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 02:04:30.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Creative Mode]
+[06Jul2025 02:04:43.439] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:04:44.050] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:04:44.087] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:04:45.038] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:04:45.219] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:04:46.068] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:04:56.045] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:04:57.618] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:04:58.188] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:05:24.768] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:05:24.988] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:05:39.890] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:06:38.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent from:
+16 scroll
+14e55820
+[06Jul2025 02:06:38.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent to:
+1 sharpened_dark_metal_sword
+336ccf2f
+[06Jul2025 02:06:41.639] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:06:41.839] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:06:46.342] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:06:46.399] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:06:50.592] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:06:59.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was skewered by Liramisu's blood needles
+[06Jul2025 02:07:05.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:07:07.239] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:07:07.444] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:07:08.039] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:07:11.503] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0

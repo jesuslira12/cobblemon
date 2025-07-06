@@ -44,6 +44,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "coniferous_forest": "2025-07-06 00:53:02 +0000",
+      "aspen_glade": "2025-07-06 01:55:46 +0000",
       "seasonal_forest": "2025-07-06 00:48:59 +0000",
       "fir_clearing": "2025-07-06 00:53:47 +0000"
     },
@@ -815,6 +816,66 @@
   "biomesoplenty:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-06 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_heart": "2025-07-06 01:55:03 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-07-06 01:54:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/yellow_maple_leaf_pile": {
+    "criteria": {
+      "has_yellow_maple_leaves": "2025-07-06 01:58:23 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-07-06 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2025-07-06 01:55:03 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-07-06 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2025-07-06 01:55:03 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-07-06 01:54:53 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-07-06 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2025-07-06 01:55:03 +0000"
     },
     "done": true
   },
