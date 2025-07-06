@@ -15,23 +15,177 @@
 				item: "irons_spellbooks:upgrade_orb"
 				type: "item"
 			}]
+			title: "Orbes medio vacios o medio llenos?"
 			x: 2.5d
 			y: 1.0d
 		}
 		{
+			dependencies: ["14E09CE1A6F71509"]
+			hide_until_deps_visible: false
 			id: "587142C323A6B474"
 			rewards: [{
 				id: "0491AC6FD9A9072E"
 				type: "xp"
 				xp: 50
 			}]
+			subtitle: "Consigue Restos Arcanos"
 			tasks: [{
 				id: "28D969E731DC5096"
 				item: "irons_spellbooks:arcane_salvage"
 				type: "item"
 			}]
+			title: "Restos"
 			x: 0.5d
 			y: 1.0d
+		}
+		{
+			id: "14E09CE1A6F71509"
+			rewards: [{
+				id: "4753BFF3655C4FAC"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Consigue un Pico de Netherite"
+			tasks: [{
+				id: "441C219849043982"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Inicio del fin"
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "3B3AC660F6330E86"
+			subtitle: "Consigue una Piedra Runica en Blanco"
+			tasks: [{
+				id: "035A5D85BC6385AD"
+				item: "irons_spellbooks:blank_rune"
+				type: "item"
+			}]
+			title: "Empezamos con las Runas"
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			id: "1C87E1D9731A4D69"
+			rewards: [{
+				id: "1DE53F322604E2E7"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "Asesina a un Sacerdote"
+			tasks: [{
+				entity: "irons_spellbooks:priest"
+				id: "5132D61448A11432"
+				optional_task: true
+				title: "El cielo no era mi lugar favorito de todos modos"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "1B2E4AC1386A0320"
+			rewards: [{
+				id: "2CEE7A6952521140"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "6618947D0FD7E4A3"
+				item: "irons_spellbooks:fire_rune"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			id: "73020D4B65F1A185"
+			tasks: [{
+				id: "68E2584CE922F01F"
+				item: "irons_spellbooks:ice_rune"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			id: "54C72524BA452A41"
+			tasks: [{
+				id: "0BDAE67034B5B335"
+				item: "irons_spellbooks:blood_rune"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.5d
+		}
+		{
+			id: "0B8620DBFBFF0CB2"
+			tasks: [{
+				id: "61646AF46B46C430"
+				item: "irons_spellbooks:evocation_rune"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.5d
+		}
+		{
+			id: "0F027F95C39A4EAD"
+			tasks: [{
+				id: "2B15DE50935A728C"
+				item: "irons_spellbooks:nature_rune"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			id: "28F523A62F49194D"
+			tasks: [{
+				id: "10A85C2B45072A83"
+				item: "irons_spellbooks:protection_rune"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.5d
+		}
+		{
+			id: "3F93E9A5BFB097B0"
+			tasks: [{
+				id: "6F26225530495EAB"
+				item: "irons_spellbooks:cooldown_rune"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 5.5d
+		}
+		{
+			id: "1B26FA5589819BA7"
+			tasks: [{
+				id: "79B0D40A45B63CA0"
+				item: "irons_spellbooks:arcane_rune"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.5d
+		}
+		{
+			id: "172354BBA55C5E42"
+			tasks: [{
+				id: "44749A78156B233F"
+				item: "irons_spellbooks:ender_rune"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.5d
 		}
 	]
 	title: "Spellbooks Classes"
