@@ -68,6 +68,7 @@
 				type: "xp"
 				xp: 35
 			}]
+			subtitle: "Consigue Mesa de Inscripcion"
 			tasks: [{
 				id: "6027F8BDE9BCDFF5"
 				item: "irons_spellbooks:inscription_table"
@@ -93,6 +94,52 @@
 			title: "Papeleria"
 			x: -2.0d
 			y: -1.0d
+		}
+		{
+			id: "7CA98B444025813A"
+			rewards: [{
+				id: "0084CEEA44035D20"
+				type: "xp"
+				xp: 15
+			}]
+			subtitle: "Consigue Fragmento de Amatista"
+			tasks: [{
+				id: "3001F9B126F19D6C"
+				item: "minecraft:amethyst_shard"
+				type: "item"
+			}]
+			title: "Fragil como el cristal"
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			id: "341D88580768DF66"
+			rewards: [{
+				id: "08692E07C05066F5"
+				type: "xp"
+				xp: 15
+			}]
+			subtitle: "Consigue Esmeralda"
+			tasks: [{
+				id: "7EEEA3545076B7B7"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			title: "El diamante Verde"
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			id: "29AB86717499247C"
+			subtitle: "Consigue Perla de Ender"
+			tasks: [{
+				id: "5337AABBB718AAA7"
+				item: "minecraft:ender_pearl"
+				type: "item"
+			}]
+			title: "Lindas Perlas"
+			x: 1.0d
+			y: -2.5d
 		}
 	]
 	title: "Spellbooks Basics"
