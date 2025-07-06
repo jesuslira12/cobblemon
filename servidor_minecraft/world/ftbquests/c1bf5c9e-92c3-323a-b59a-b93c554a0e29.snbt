@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c1bf5c9e92c3323ab59ab93c554a0e29"
+	name: "Liramisu#c1bf5c9e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

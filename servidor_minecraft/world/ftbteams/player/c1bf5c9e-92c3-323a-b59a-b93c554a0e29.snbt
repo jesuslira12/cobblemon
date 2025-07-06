@@ -1,0 +1,17 @@
+{
+	id: "c1bf5c9e-92c3-323a-b59a-b93c554a0e29"
+	type: "player"
+	player_name: "Liramisu"
+	ranks: {
+		c1bf5c9e-92c3-323a-b59a-b93c554a0e29: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Liramisu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FA59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
