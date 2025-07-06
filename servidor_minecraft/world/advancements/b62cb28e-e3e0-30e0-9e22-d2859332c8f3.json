@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-06 03:09:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
       "has_arrow": "2025-07-06 02:08:00 +0000"
