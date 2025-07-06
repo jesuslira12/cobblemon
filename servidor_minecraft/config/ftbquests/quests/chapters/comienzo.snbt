@@ -121,6 +121,23 @@
 			x: 0.0d
 			y: -1.5d
 		}
+		{
+			id: "35F054129BF77DE1"
+			rewards: [{
+				id: "1454D0E0411AAF89"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Crea un dummy"
+			tasks: [{
+				id: "127088A457F169CF"
+				item: "dummmmmmy:target_dummy"
+				type: "item"
+			}]
+			title: "Pegale que no le duele"
+			x: 3.0d
+			y: -1.5d
+		}
 	]
 	title: "Comienzo"
 }

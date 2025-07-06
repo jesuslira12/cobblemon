@@ -187,6 +187,26 @@
 			x: -1.0d
 			y: 5.5d
 		}
+		{
+			id: "3AE639E65F6B07B5"
+			tasks: [{
+				id: "6A4869A1508A2FCA"
+				item: "irons_spellbooks:lightning_rune"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.5d
+		}
+		{
+			id: "41BD783AFC111383"
+			tasks: [{
+				id: "36715F84162FBC81"
+				item: "irons_spellbooks:holy_rune"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 5.5d
+		}
 	]
 	title: "Spellbooks Classes"
 }

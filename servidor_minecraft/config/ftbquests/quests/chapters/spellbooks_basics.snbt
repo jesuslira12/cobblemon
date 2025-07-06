@@ -172,8 +172,8 @@
 				type: "item"
 			}]
 			title: "Sacrilegio Perlado"
-			x: -2.0d
-			y: -2.5d
+			x: -3.5d
+			y: -4.0d
 		}
 		{
 			dependencies: [
@@ -195,7 +195,7 @@
 			}]
 			title: "Sopera"
 			x: -0.5d
-			y: -6.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["203FC12A965E6CF9"]
@@ -276,7 +276,7 @@
 				}
 			]
 			title: "El Mago Errante"
-			x: 1.0d
+			x: 1.5d
 			y: -2.5d
 		}
 		{
@@ -293,8 +293,8 @@
 				type: "item"
 			}]
 			title: "7 palabras"
-			x: -3.5d
-			y: -3.5d
+			x: 1.5d
+			y: -2.5d
 		}
 		{
 			id: "5D36F0621673817A"
@@ -311,7 +311,7 @@
 			}]
 			title: "7 Palabras II"
 			x: -2.0d
-			y: -3.5d
+			y: -2.5d
 		}
 	]
 	title: "Spellbooks Basics"
