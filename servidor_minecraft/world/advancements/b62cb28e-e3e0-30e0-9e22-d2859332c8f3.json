@@ -49,6 +49,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "coniferous_forest": "2025-07-06 02:16:40 +0000",
       "aspen_glade": "2025-07-06 01:55:46 +0000",
       "seasonal_forest": "2025-07-06 01:38:30 +0000"
     },
@@ -332,6 +333,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-07-06 02:16:08 +0000",
       "minecraft:plains": "2025-07-06 01:44:06 +0000"
     },
     "done": false
