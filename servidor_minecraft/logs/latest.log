@@ -422,3 +422,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 07:10:21.077] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [06Jul2025 07:10:21.077] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [06Jul2025 07:11:51.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Removed 611 item(s) from player Liramisu]
+[06Jul2025 08:05:07.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu has reached the goal [New Age Librarian]

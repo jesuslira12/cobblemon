@@ -36,7 +36,7 @@
 			y: 0.5d
 		}
 		{
-			dependencies: ["372C693582F996DC"]
+			dependency_requirement: "one_completed"
 			id: "65B2F1ED4C21B034"
 			rewards: [
 				{
@@ -58,6 +58,40 @@
 			}]
 			title: "Escritor de Pergaminos"
 			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["372C693582F996DC"]
+			id: "203FC12A965E6CF9"
+			rewards: [{
+				id: "173B55E459B69AF7"
+				type: "xp"
+				xp: 35
+			}]
+			tasks: [{
+				id: "6027F8BDE9BCDFF5"
+				item: "irons_spellbooks:inscription_table"
+				type: "item"
+			}]
+			title: "Inscipciones listas"
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			id: "3230ED0B2B6F9F3E"
+			rewards: [{
+				id: "4D5C1C395A1C0815"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Consigue papel"
+			tasks: [{
+				id: "6E3847264A479FB5"
+				item: "minecraft:paper"
+				type: "item"
+			}]
+			title: "Papeleria"
+			x: -2.0d
 			y: -1.0d
 		}
 	]
