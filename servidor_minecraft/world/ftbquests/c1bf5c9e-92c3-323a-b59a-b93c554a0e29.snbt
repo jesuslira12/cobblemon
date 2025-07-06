@@ -4,9 +4,19 @@
 	name: "Liramisu#c1bf5c9e"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		47684CB550A4F00D: 1
+	}
+	started: {
+		1298AB2A8191A05A: 1751787056008L
+		0000000000000001: 1751787056008L
+		47684CB550A4F00D: 1751787056008L
+		1531D0EF9711BF6F: 1751787056008L
+	}
+	completed: {
+		47684CB550A4F00D: 1751787056011L
+		1531D0EF9711BF6F: 1751787056011L
+	}
 	claimed_rewards: { }
 	player_data: {
 		c1bf5c9e92c3323ab59ab93c554a0e29: {

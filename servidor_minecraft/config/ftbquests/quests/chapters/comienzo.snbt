@@ -8,6 +8,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["1531D0EF9711BF6F"]
 			id: "2276B7FD41889035"
 			rewards: [{
 				id: "42C80BCE2F07F7D3"
@@ -74,11 +75,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"2276B7FD41889035"
-				"54021C414FEC771E"
-				"4C9F8B6D05EEA3BA"
-			]
+			dependencies: ["54021C414FEC771E"]
 			id: "5137C98EC3B9AFFE"
 			rewards: [{
 				id: "5FC165B7DAAA1E4F"
@@ -94,6 +91,18 @@
 			title: "Suplemento de Hierro"
 			x: 1.5d
 			y: 1.5d
+		}
+		{
+			id: "1531D0EF9711BF6F"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "mca:book_family"
+				id: "47684CB550A4F00D"
+				title: "El Inicio"
+				type: "dimension"
+			}]
+			x: 1.5d
+			y: -1.5d
 		}
 	]
 	title: "Comienzo"
