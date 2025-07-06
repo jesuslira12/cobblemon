@@ -6,22 +6,44 @@
 	id: "263B8964F5BA8DD6"
 	order_index: 2
 	quest_links: [ ]
-	quests: [{
-		id: "3842989A88643EFD"
-		rewards: [{
-			id: "5739EB676D26CA7E"
-			type: "xp"
-			xp: 15
-		}]
-		subtitle: "Consigue Colmillo de Vampiro"
-		tasks: [{
-			id: "557B3E285C90FA77"
-			item: "vampirism:vampire_fang"
-			type: "item"
-		}]
-		title: "Vampires Will Never Hurt You"
-		x: 1.0d
-		y: 0.5d
-	}]
+	quests: [
+		{
+			id: "3842989A88643EFD"
+			rewards: [{
+				id: "5739EB676D26CA7E"
+				type: "xp"
+				xp: 15
+			}]
+			subtitle: "Consigue Colmillo de Vampiro"
+			tasks: [{
+				id: "557B3E285C90FA77"
+				item: "vampirism:vampire_fang"
+				type: "item"
+			}]
+			title: "In Love With All of These Vampires"
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			icon: "minecraft:spawner"
+			id: "7529A094AC4BF4D5"
+			rewards: [{
+				id: "4EDF116FDE75AAF4"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "Asesina a un Vampiro"
+			tasks: [{
+				entity: "vampirism:vampire"
+				icon: "minecraft:stick"
+				id: "1FA97B52634F1728"
+				title: "Vampires will Never Hurt You"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+	]
 	title: "vampirism basics"
 }

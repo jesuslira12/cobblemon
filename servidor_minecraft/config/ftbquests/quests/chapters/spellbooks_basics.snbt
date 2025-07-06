@@ -175,6 +175,24 @@
 			x: -2.0d
 			y: -2.5d
 		}
+		{
+			dependencies: ["203FC12A965E6CF9"]
+			id: "25BE2252FB11732D"
+			rewards: [{
+				id: "78CCDB7BDAC35065"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Consigue un Caldero de Alquimista"
+			tasks: [{
+				id: "13ECBD59F7FE93CC"
+				item: "irons_spellbooks:alchemist_cauldron"
+				type: "item"
+			}]
+			title: "Sopera"
+			x: -0.5d
+			y: -4.0d
+		}
 	]
 	title: "Spellbooks Basics"
 }
