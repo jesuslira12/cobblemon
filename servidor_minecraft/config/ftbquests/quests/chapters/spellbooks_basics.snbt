@@ -176,7 +176,11 @@
 			y: -2.5d
 		}
 		{
-			dependencies: ["203FC12A965E6CF9"]
+			dependencies: [
+				"6267571BE6E41F46"
+				"5D36F0621673817A"
+				"203FC12A965E6CF9"
+			]
 			id: "25BE2252FB11732D"
 			rewards: [{
 				id: "78CCDB7BDAC35065"
@@ -191,7 +195,7 @@
 			}]
 			title: "Sopera"
 			x: -0.5d
-			y: -4.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["203FC12A965E6CF9"]
@@ -274,6 +278,40 @@
 			title: "El Mago Errante"
 			x: 1.0d
 			y: -2.5d
+		}
+		{
+			id: "6267571BE6E41F46"
+			rewards: [{
+				id: "70B2E441903DB212"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "Consigue Escencia Arcana matando Seres Magicos o por pura Suerte en Cofres del mundo!"
+			tasks: [{
+				id: "6869306E6329E265"
+				item: "irons_spellbooks:arcane_essence"
+				type: "item"
+			}]
+			title: "7 palabras"
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			id: "5D36F0621673817A"
+			rewards: [{
+				id: "3DB851593063FBF2"
+				type: "xp"
+				xp: 25
+			}]
+			subtitle: "Consigue Escencia de Ceniza asesinando a un Caballero antiguo en el Nether, o en torres quemadas en el Overworld"
+			tasks: [{
+				id: "584ECE0BE6E2BE85"
+				item: "irons_spellbooks:cinder_essence"
+				type: "item"
+			}]
+			title: "7 Palabras II"
+			x: -2.0d
+			y: -3.5d
 		}
 	]
 	title: "Spellbooks Basics"

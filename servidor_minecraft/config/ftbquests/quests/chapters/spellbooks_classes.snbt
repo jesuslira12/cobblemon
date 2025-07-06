@@ -6,6 +6,33 @@
 	id: "4AC0F423707BF333"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			dependencies: ["587142C323A6B474"]
+			id: "4433F30564C1C500"
+			tasks: [{
+				id: "7108C13191D1A76E"
+				item: "irons_spellbooks:upgrade_orb"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			id: "587142C323A6B474"
+			rewards: [{
+				id: "0491AC6FD9A9072E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "28D969E731DC5096"
+				item: "irons_spellbooks:arcane_salvage"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+	]
 	title: "Spellbooks Classes"
 }
