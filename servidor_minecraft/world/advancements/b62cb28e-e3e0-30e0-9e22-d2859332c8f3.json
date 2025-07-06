@@ -440,6 +440,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-06 02:38:44 +0000",
+      "minecraft:zombie": "2025-07-06 02:39:52 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-07-06 01:53:22 +0000"
@@ -651,6 +658,12 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-07-06 02:39:52 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:chaos_knight": {
     "criteria": {
       "chaos_knight_0": "2025-07-06 02:13:33 +0000"
@@ -684,6 +697,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-07-06 02:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-06 02:38:44 +0000"
     },
     "done": true
   },

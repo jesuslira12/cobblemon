@@ -5698,3 +5698,77 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 02:37:17.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was punctured by Liramisu's magic arrow
 [06Jul2025 02:37:20.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
 [06Jul2025 02:37:22.434] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:37:58.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-145, y=75, z=-7} BlockPos{x=-142, y=74, z=25}
+[06Jul2025 02:38:04.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-145, y=75, z=-7} BlockPos{x=-134, y=75, z=31}
+[06Jul2025 02:38:04.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-145, y=75, z=-7} BlockPos{x=-134, y=76, z=31}
+[06Jul2025 02:38:43.604] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:38:44.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim has made the advancement [Monster Hunter]
+[06Jul2025 02:38:48.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 02:38:48.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 02:38:54.335] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:38:54.784] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:39:40.217] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:39:40.269] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:39:52.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim has reached the goal [Exorcism]
+[06Jul2025 02:40:38.635] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:40:38.708] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:40:38.754] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:41:36.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was blasted by Liramisu's ray of frost
+[06Jul2025 02:41:37.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-126, y=89, z=27}
+[06Jul2025 02:41:38.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:41:43.155] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:41:43.491] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
+[06Jul2025 02:42:35.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:42:42.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Applied effect Strength to VivaEloim]
+[06Jul2025 02:42:51.086] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
+[06Jul2025 02:43:16.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
+[06Jul2025 02:43:41.345] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
+[06Jul2025 02:43:48.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 02:43:48.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 02:44:17.435] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent from:
+62 scroll
+7798389c
+[06Jul2025 02:44:17.436] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent to:
+63 scroll
+167397b3
+[06Jul2025 02:44:18.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu was slain by VivaEloim
+[06Jul2025 02:44:24.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:44:25.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-125, y=76, z=25}
+[06Jul2025 02:44:25.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-125, y=76, z=24}
+[06Jul2025 02:44:25.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-125, y=76, z=24}
+[06Jul2025 02:44:27.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-124, y=76, z=25}
+[06Jul2025 02:44:27.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-124, y=76, z=25}
+[06Jul2025 02:44:27.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-124, y=75, z=24}
+[06Jul2025 02:44:30.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-124, y=76, z=28}
+[06Jul2025 02:44:30.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Creative Mode]
+[06Jul2025 02:44:43.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-115, y=81, z=25}
+[06Jul2025 02:44:45.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liramisu moved too quickly! 2.210837713504617,-10.297394016002912,1.602762237425864
+[06Jul2025 02:44:54.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
+[06Jul2025 02:44:55.990] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:45:01.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
+[06Jul2025 02:45:12.736] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
+[06Jul2025 02:45:16.735] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [b62cb28e-e3e0-30e0-9e22-d2859332c8f3]
+[06Jul2025 02:45:22.535] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent from:
+63 scroll
+3c0378ef
+[06Jul2025 02:45:22.535] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent to:
+61 scroll
+3a94e339
+[06Jul2025 02:45:34.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was blasted by Liramisu's ray of frost
+[06Jul2025 02:45:37.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:45:44.137] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:45:54.886] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.12 and blood value 15 for entity irons_spellbooks:spectral_steed
+[06Jul2025 02:46:08.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu was slain by VivaEloim
+[06Jul2025 02:46:11.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:46:13.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=62, z=-12} BlockPos{x=-118, y=79, z=7}
+[06Jul2025 02:46:13.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=62, z=-12} BlockPos{x=-118, y=78, z=7}
+[06Jul2025 02:46:52.565] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 02:47:28.396] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [c1bf5c9e-92c3-323a-b59a-b93c554a0e29]
+[06Jul2025 02:47:31.548] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [c1bf5c9e-92c3-323a-b59a-b93c554a0e29]
+[06Jul2025 02:47:33.033] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent from:
+62 scroll
+1a282bca
+[06Jul2025 02:47:33.033] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: onLivingEquipmentChangeEvent to:
+59 scroll
+3a94e339
+[06Jul2025 02:47:38.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu was blasted by VivaEloim's ray of frost

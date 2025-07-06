@@ -625,3 +625,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 02:36:47.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Applied effect Strength to VivaEloim]
 [06Jul2025 02:37:17.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was punctured by Liramisu's magic arrow
 [06Jul2025 02:37:20.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:37:58.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-145, y=75, z=-7} BlockPos{x=-142, y=74, z=25}
+[06Jul2025 02:38:04.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-145, y=75, z=-7} BlockPos{x=-134, y=75, z=31}
+[06Jul2025 02:38:04.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-145, y=75, z=-7} BlockPos{x=-134, y=76, z=31}
+[06Jul2025 02:38:44.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim has made the advancement [Monster Hunter]
+[06Jul2025 02:39:52.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim has reached the goal [Exorcism]
+[06Jul2025 02:41:36.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was blasted by Liramisu's ray of frost
+[06Jul2025 02:41:37.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-126, y=89, z=27}
+[06Jul2025 02:41:38.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:42:35.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:42:42.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Applied effect Strength to VivaEloim]
+[06Jul2025 02:43:16.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
+[06Jul2025 02:44:18.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu was slain by VivaEloim
+[06Jul2025 02:44:24.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:44:25.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-125, y=76, z=25}
+[06Jul2025 02:44:25.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-125, y=76, z=24}
+[06Jul2025 02:44:25.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-125, y=76, z=24}
+[06Jul2025 02:44:27.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-124, y=76, z=25}
+[06Jul2025 02:44:27.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-124, y=76, z=25}
+[06Jul2025 02:44:27.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-124, y=75, z=24}
+[06Jul2025 02:44:30.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-124, y=76, z=28}
+[06Jul2025 02:44:30.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Creative Mode]
+[06Jul2025 02:44:43.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=63, z=-1} BlockPos{x=-115, y=81, z=25}
+[06Jul2025 02:44:45.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liramisu moved too quickly! 2.210837713504617,-10.297394016002912,1.602762237425864
+[06Jul2025 02:44:54.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
+[06Jul2025 02:45:34.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was blasted by Liramisu's ray of frost
+[06Jul2025 02:45:37.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:46:08.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu was slain by VivaEloim
+[06Jul2025 02:46:11.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:46:13.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=62, z=-12} BlockPos{x=-118, y=79, z=7}
+[06Jul2025 02:46:13.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=62, z=-12} BlockPos{x=-118, y=78, z=7}
+[06Jul2025 02:47:38.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu was blasted by VivaEloim's ray of frost
