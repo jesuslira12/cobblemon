@@ -46,7 +46,8 @@
       "coniferous_forest": "2025-07-06 00:53:02 +0000",
       "aspen_glade": "2025-07-06 01:55:46 +0000",
       "seasonal_forest": "2025-07-06 00:48:59 +0000",
-      "fir_clearing": "2025-07-06 00:53:47 +0000"
+      "fir_clearing": "2025-07-06 00:53:47 +0000",
+      "gravel_beach": "2025-07-06 04:20:38 +0000"
     },
     "done": false
   },
@@ -903,6 +904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-06 04:18:33 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2025-07-06 03:17:26 +0000"
@@ -1018,6 +1025,18 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-07-06 04:15:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-07-06 04:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-07-06 03:19:06 +0000"
@@ -1045,6 +1064,12 @@
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-07-06 03:29:32 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-07-06 04:20:28 +0000"
     },
     "done": true
   },
