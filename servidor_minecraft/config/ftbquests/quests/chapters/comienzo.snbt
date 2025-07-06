@@ -1,0 +1,34 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "comienzo"
+	group: "69E574A82BC2167F"
+	id: "1298AB2A8191A05A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "2276B7FD41889035"
+		rewards: [{
+			id: "42C80BCE2F07F7D3"
+			type: "xp"
+			xp: 50
+		}]
+		shape: "square"
+		subtitle: "Consigue un Pico de Madera"
+		tasks: [{
+			id: "1447E961630336C9"
+			item: {
+				Count: 1
+				id: "minecraft:wooden_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			type: "item"
+		}]
+		title: "Comienza la Aventura"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Comienzo"
+}
