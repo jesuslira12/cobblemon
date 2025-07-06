@@ -4,5 +4,11 @@
     "name": "Liramisu",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b62cb28e-e3e0-30e0-9e22-d2859332c8f3",
+    "name": "VivaEloim",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

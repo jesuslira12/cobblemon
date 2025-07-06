@@ -656,3 +656,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 02:46:13.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=62, z=-12} BlockPos{x=-118, y=79, z=7}
 [06Jul2025 02:46:13.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=62, z=-12} BlockPos{x=-118, y=78, z=7}
 [06Jul2025 02:47:38.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu was blasted by VivaEloim's ray of frost
+[06Jul2025 02:47:43.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:47:52.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Creative Mode]
+[06Jul2025 02:48:31.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was doomed to fall by Liramisu
+[06Jul2025 02:48:35.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:48:43.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-118, y=45, z=19}
+[06Jul2025 02:48:44.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-118, y=44, z=18}
+[06Jul2025 02:48:44.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-118, y=45, z=18}
+[06Jul2025 02:48:45.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported VivaEloim to Liramisu]
+[06Jul2025 02:48:57.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-119, y=45, z=18}
+[06Jul2025 02:49:07.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim fell from a high place
+[06Jul2025 02:49:07.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Made VivaEloim a server operator]
+[06Jul2025 02:49:17.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Set own game mode to Creative Mode]
+[06Jul2025 02:54:54.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Set own game mode to Survival Mode]
+[06Jul2025 02:55:22.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Set own game mode to Creative Mode]
+[06Jul2025 02:55:41.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Set own game mode to Survival Mode]
+[06Jul2025 02:55:46.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
