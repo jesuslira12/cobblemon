@@ -6428,3 +6428,32 @@ b6bf5a5
 [06Jul2025 03:36:41.162] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [06Jul2025 03:36:42.154] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [06Jul2025 03:36:42.984] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 03:38:10.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was doomed to fall
+[06Jul2025 03:38:35.265] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 03:38:35.387] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 03:38:44.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Set own game mode to Creative Mode]
+[06Jul2025 03:38:48.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 03:38:48.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 03:38:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Teleported VivaEloim to Liramisu]
+[06Jul2025 03:39:02.684] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 03:39:14.640] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Jul2025 03:39:14.641] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[06Jul2025 03:39:14.645] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Jul2025 03:39:21.735] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 55
+[06Jul2025 03:39:21.739] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6a4d221b, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6a4d221b, b=54, e=62}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6a4d221b, b=27, e=53}}
+[06Jul2025 03:39:21.739] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6a4d221b, b=54, e=62}
+[06Jul2025 03:39:23.096] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 39
+[06Jul2025 03:39:23.096] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6a4d221b, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6a4d221b, b=54, e=62}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6a4d221b, b=27, e=53}}
+[06Jul2025 03:39:23.096] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6a4d221b, b=27, e=53}
+[06Jul2025 03:42:39.266] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 33
+[06Jul2025 03:42:39.843] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 32
+[06Jul2025 03:42:40.682] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 32
+[06Jul2025 03:42:41.773] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 24
+[06Jul2025 03:43:06.409] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 03:43:08.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Gamerule keepInventory is now set to: true]
+[06Jul2025 03:43:30.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaEloim> SOULBANE
+[06Jul2025 03:43:48.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 03:43:48.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 03:44:52.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Applied effect Strength to VivaEloim]
+[06Jul2025 03:47:29.888] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jul2025 03:48:03.972] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0

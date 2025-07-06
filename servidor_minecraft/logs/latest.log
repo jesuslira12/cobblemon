@@ -706,3 +706,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 03:33:13.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim has made the advancement [Magery]
 [06Jul2025 03:33:16.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim has made the advancement [Enlightenment]
 [06Jul2025 03:33:58.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Set own game mode to Survival Mode]
+[06Jul2025 03:38:10.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim was doomed to fall
+[06Jul2025 03:38:44.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Set own game mode to Creative Mode]
+[06Jul2025 03:38:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Teleported VivaEloim to Liramisu]
+[06Jul2025 03:43:08.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Gamerule keepInventory is now set to: true]
+[06Jul2025 03:43:30.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VivaEloim> SOULBANE
+[06Jul2025 03:44:52.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Applied effect Strength to VivaEloim]
