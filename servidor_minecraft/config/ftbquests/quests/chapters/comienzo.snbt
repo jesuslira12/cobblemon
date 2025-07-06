@@ -6,29 +6,95 @@
 	id: "1298AB2A8191A05A"
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		id: "2276B7FD41889035"
-		rewards: [{
-			id: "42C80BCE2F07F7D3"
-			type: "xp"
-			xp: 50
-		}]
-		shape: "square"
-		subtitle: "Consigue un Pico de Madera"
-		tasks: [{
-			id: "1447E961630336C9"
-			item: {
-				Count: 1
-				id: "minecraft:wooden_pickaxe"
-				tag: {
-					Damage: 0
+	quests: [
+		{
+			id: "2276B7FD41889035"
+			rewards: [{
+				id: "42C80BCE2F07F7D3"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Consigue un Pico de Madera"
+			tasks: [{
+				id: "1447E961630336C9"
+				item: {
+					Count: 1
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
 				}
-			}
-			type: "item"
-		}]
-		title: "Comienza la Aventura"
-		x: 0.0d
-		y: 0.0d
-	}]
+				type: "item"
+			}]
+			title: "Comienza la Aventura"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2276B7FD41889035"]
+			id: "4C9F8B6D05EEA3BA"
+			rewards: [{
+				id: "7165DF94AB437944"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Consigue x8 Roca"
+			tasks: [{
+				count: 8L
+				id: "6B841DE8CC42C065"
+				item: { Count: 5, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			title: "Primeros pasos"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4C9F8B6D05EEA3BA"]
+			id: "54021C414FEC771E"
+			rewards: [{
+				id: "71888B391B72E83D"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Consigue un pico de piedra"
+			tasks: [{
+				id: "4F7062662ED235EF"
+				item: {
+					Count: 1
+					id: "minecraft:stone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Empiezas a entender, eh?"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2276B7FD41889035"
+				"54021C414FEC771E"
+				"4C9F8B6D05EEA3BA"
+			]
+			id: "5137C98EC3B9AFFE"
+			rewards: [{
+				id: "5FC165B7DAAA1E4F"
+				type: "xp"
+				xp: 20
+			}]
+			subtitle: "Consigue Hierro en Bruto"
+			tasks: [{
+				id: "60AB8AFE298071C4"
+				item: "minecraft:raw_iron"
+				type: "item"
+			}]
+			title: "Suplemento de Hierro"
+			x: 1.5d
+			y: 1.5d
+		}
+	]
 	title: "Comienzo"
 }
