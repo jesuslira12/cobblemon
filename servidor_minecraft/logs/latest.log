@@ -726,3 +726,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [06Jul2025 04:01:27.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Set own game mode to Survival Mode]
 [06Jul2025 04:01:41.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liramisu: Teleported Liramisu to VivaEloim]
 [06Jul2025 04:04:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VivaEloim: Applied effect Strength to VivaEloim]
+[06Jul2025 04:12:33.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VivaEloim has made the advancement [Minecraft Comes Alive]
+[06Jul2025 04:15:54.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liramisu has made the advancement [Minecraft Comes Alive]
+[06Jul2025 04:17:51.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=53, y=12, z=533} but found not block entity block Block{minecraft:water}[level=8] at location
+[06Jul2025 04:17:51.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=53, y=12, z=533}
